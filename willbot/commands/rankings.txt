@@ -1,0 +1,6 @@
+Skype use time
+user3 > user4 > user1 > user2
+--------------------------------------
+Post count
+user4 > user1 > user2 > user3
+--------------------------------------

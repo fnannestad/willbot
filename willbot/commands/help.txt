@@ -1,0 +1,21 @@
+========== WILLBOT COMMANDS ==========
+--------------------------------------
+!commands or !help - list commands
+--------------------------------------
+!disable - disable willbot
+--------------------------------------
+!enable - enable willbot
+--------------------------------------
+!random - random will quote
+!addrandom <phrase> - add new quote to the random file
+--------------------------------------
+!addgreeting <handle> <phrase> - add new greeting for the user with <handle>
+(Note that handles are skype usernames with punctuation removed, eg, user_1 becomes user1)
+--------------------------------------
+!find <phrase> - print lines in chat logs containing <phrase>
+--------------------------------------
+!count <phrase> - count lines in chat logs containing <phrase>
+!countcsv <phrase> - !count in csv format
+--------------------------------------
+!rankings - list member rankings
+--------------------------------------

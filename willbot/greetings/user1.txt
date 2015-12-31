@@ -1,0 +1,3 @@
+hi user1
+hi friend
+hello user1
