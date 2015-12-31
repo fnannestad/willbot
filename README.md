@@ -1,10 +1,10 @@
 # willbot
 A dumb bot using the Skype4Py API wrapper for Skype
 
-An annoying bot I wrote to talk in my friend's Skype call.
+https://github.com/Skype4Py/Skype4Py
 
 ### Overview
-Various commands can be used in the Skype call that willbot is in which are outlined in the file *commands/help.txt*.
+Various commands can be used in the Skype conversation that willbot is in. These are outlined in the file *commands/help.txt*.
 
 Unless he is disabled using the *!disable* command, willbot will also occassionally respond to greetings and various phrases.
 
@@ -22,9 +22,6 @@ to
 skype.SendMessage(userNameToSendTo, responseBlock)
 ```
 
-Greetings to users are chosen randomly from the file thats name matches the user's username. These can be customised by editing the files in */greetings/* or by using the command *!addgreeting*.
+Greetings to users are chosen randomly from the file thats name matches the user's username. These can be customised by editing the files in */greetings/* or by using the command *!addgreeting*. Random quotes can be customised in the same way.
 
-Random quotes can be customised in the same way, and chat logs must be obtained manually. I suggest using https://github.com/lordgreggreg/skype-log-viewer
-
-### Related projects
-https://github.com/Skype4Py/Skype4Py
+Chat logs must be obtained manually. I suggest using https://github.com/lordgreggreg/skype-log-viewer
