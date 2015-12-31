@@ -25,3 +25,5 @@ skype.SendMessage(userNameToSendTo, responseBlock)
 Greetings to users are chosen randomly from the file thats name matches the user's username. These can be customised by editing the files in */greetings/* or by using the command *!addgreeting*. Random quotes can be customised in the same way.
 
 Chat logs must be obtained manually. I suggest using https://github.com/lordgreggreg/skype-log-viewer
+
+Sample text files have been included to show the expected formats.
